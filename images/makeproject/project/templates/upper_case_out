@@ -1,16 +1,4 @@
 <file_info>
-  <number>0</number>
-</file_info>
-<workunit>
-  <file_ref>
-    <file_number>0</file_number>
-    <open_name>in</open_name>
-  </file_ref>
-  <min_quorum>1</min_quorum>
-  <target_nresults>1</target_nresults>
-</workunit>
-root@scienterprise:~/project/templates# cat upper_case_out
-<file_info>
   <name><OUTFILE_0/></name>
   <generated_locally/>
   <upload_when_present/>
