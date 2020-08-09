@@ -1,0 +1,6 @@
+<job_desc>
+    <task>
+        <application>worker</application>
+        <command_line>10</command_line>
+    </task>
+</job_desc>

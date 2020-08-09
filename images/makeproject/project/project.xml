@@ -58,6 +58,10 @@
     </app>
     <app>
         <name>upper_case</name>
-        <user_friendly_name>upperCASE</user_friendly_name>
+        <user_friendly_name>native_upperCASE</user_friendly_name>
+    </app>
+    <app>
+	<name>worker</name>
+	<user_friendly_name>wrapper_worker</user_friendly_name>
     </app>
 </boinc>
