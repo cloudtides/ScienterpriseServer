@@ -5,3 +5,6 @@ RUN apt-get update \
 	emacs \
 	tree \
     && rm -rf /var/lib/apt/lists
+
+RUN rm /etc/apache2/sites-enabled/000-default.conf
+COPY --chown=1000 apache2.conf /etc/apache2/
