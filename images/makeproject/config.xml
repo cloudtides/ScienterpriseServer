@@ -32,7 +32,7 @@
         <min_sendwork_interval>6</min_sendwork_interval>
         <db_host>mysql</db_host>
         <daily_result_quota>500</daily_result_quota>
-        <one_result_per_user_per_wu>0</one_result_per_user_per_wu>
+        <one_result_per_user_per_wu/>
         <max_wus_to_send>50</max_wus_to_send>
     </config>
     <tasks>

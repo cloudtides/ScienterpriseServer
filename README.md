@@ -155,6 +155,6 @@ bin/stage_file /path/to/input_file
 bin/create_work --appname ${app_name} --wu_name ${work_unit_name} /path/to/staged_input_file
 ```
 
-Now the new workunit is available for user to download and run. See workunit on `${ip_address}/scienterprise_ops` from your browser. You can see result after one user has finished the task in `upload/` on your apache server.
+Now the new workunit is available for user to download and run. See workunit on `${ip_address}/ops` from your browser. You can see result after one user has finished the task in `upload/` on your apache server.
 
 

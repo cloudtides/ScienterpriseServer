@@ -1,0 +1,64 @@
+<output_template>
+<file_info>
+    <name><OUTFILE_0/></name>
+    <generated_locally/>
+    <upload_when_present/>
+    <max_nbytes>500000000</max_nbytes>
+    <url><UPLOAD_URL/></url>
+</file_info>
+<file_info>
+    <name><OUTFILE_1/></name>
+    <generated_locally/>
+    <upload_when_present/>
+    <max_nbytes>500000000</max_nbytes>
+    <url><UPLOAD_URL/></url>
+</file_info>
+<file_info>
+    <name><OUTFILE_2/></name>
+    <generated_locally/>
+    <upload_when_present/>
+    <max_nbytes>500000000</max_nbytes>
+    <url><UPLOAD_URL/></url>
+</file_info>
+<file_info>
+    <name><OUTFILE_3/></name>
+    <generated_locally/>
+    <upload_when_present/>
+    <max_nbytes>500000000</max_nbytes>
+    <url><UPLOAD_URL/></url>
+</file_info>
+<file_info>
+    <name><OUTFILE_4/></name>
+    <generated_locally/>
+    <upload_when_present/>
+    <max_nbytes>500000000</max_nbytes>
+    <url><UPLOAD_URL/></url>
+</file_info>
+<result>
+    <file_ref>
+        <file_name><OUTFILE_0/></file_name>
+        <open_name>md_0_1.cpt</open_name>
+        <copy_file/>
+    </file_ref>
+    <file_ref>
+        <file_name><OUTFILE_1/></file_name>
+        <open_name>md_0_1.edr</open_name>
+        <copy_file/>
+    </file_ref>
+    <file_ref>
+        <file_name><OUTFILE_2/></file_name>
+        <open_name>md_0_1.log</open_name>
+        <copy_file/>
+    </file_ref>
+    <file_ref>
+        <file_name><OUTFILE_3/></file_name>
+        <open_name>md_0_1.trr</open_name>
+        <copy_file/>
+    </file_ref>
+    <file_ref>
+        <file_name><OUTFILE_4/></file_name>
+        <open_name>md_0_1.xtc</open_name>
+        <copy_file/>
+    </file_ref>
+</result>
+</output_template>

@@ -1,0 +1,3 @@
+#!/bin/bash
+source /usr/local/gromacs/bin/GMXRC
+gmx mdrun -nsteps 100000 -deffnm md_0_1

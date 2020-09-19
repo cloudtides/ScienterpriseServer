@@ -64,4 +64,8 @@
 	<name>worker</name>
 	<user_friendly_name>wrapper_worker</user_friendly_name>
     </app>
+    <app>
+        <name>gromacs</name>
+        <user_friendly_name>wrapper_gromacs</user_friendly_name>
+    </app>
 </boinc>
