@@ -24,7 +24,7 @@ then run it,
 docker-compose up -d --build
 ```
 
-Now the BOINC server is ready for you at `http://127.0.0.1/scienterprise` if you deploy it on localhost or `http://$(public ip)/scienterprise` if you deploy it somewhere else. And you can also access the admin page by simply add `_ops` to the end of your url with username `admin` and no password (by default). 
+Now the BOINC server is ready for you at `http://127.0.0.1` if you deploy it on localhost or `http://$(public ip)` if you deploy it somewhere else. And you can also access the admin page by simply add `_ops` to the end of your url with username `admin` and no password (by default). 
 
 **Note**
 - If you are not running the server on localhost (`127.0.0.1`), you need to specify `URL_BASE` when start the server by running
