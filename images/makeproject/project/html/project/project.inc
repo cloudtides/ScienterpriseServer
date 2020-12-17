@@ -13,7 +13,11 @@ require_once("../inc/util.inc");
 //-------------- Project name and owner
 
 define("PROJECT", "scienterprise");
-define("COPYRIGHT_HOLDER", "VMWare and Shanghai Jiao Tong University");
+define("COPYRIGHT_HOLDER", "VMware and Shanghai Jiao Tong University");
+
+//-------------- Invitation codes
+
+define('INVITE_CODES', '/vmware|um-sjtu|biology/');
 
 //-------------- URLs and directories
 
